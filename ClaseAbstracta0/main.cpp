@@ -2,6 +2,7 @@
 
 using namespace std;
 
+int main(){
 int a,b,suma;
 
 cout<<"\n ingrese numero a:";
@@ -16,9 +17,9 @@ suma=a+b;
 
 cout<<"\n la suma de "<<a<<"+"<<b<<" es:"<<suma;
 
-cout<<"hola mundo 2.0"
+cout<<"hola mundo 2.0"; 
 
-return 0
+return 0;
 
     
     
